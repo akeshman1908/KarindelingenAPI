@@ -1,5 +1,5 @@
-import { generateCarrierSideView } from './components/generateCarrierSideView.js';
-import { generateCarrierTopView } from './components/generateCarrierTopView.js';
+import { generateCarrierSideView } from '../components/generateCarrierSideView.js';
+import { generateCarrierTopView } from '../components/generateCarrierTopView.js';
 
 class CarrierLayoutComponent extends HTMLElement {
   constructor() {

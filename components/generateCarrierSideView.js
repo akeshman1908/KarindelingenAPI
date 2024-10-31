@@ -69,7 +69,6 @@ function distanceToMm(measurement) {
 function addWheels(transformGroup, dimensions, wheelSize, wheelSizeHalf) {
   const svgNS = 'http://www.w3.org/2000/svg';
 
-  // Linker wiel
   const wheelLeft = document.createElementNS(svgNS, 'circle');
   wheelLeft.setAttribute('cx', dimensions.width * 0.1);
   wheelLeft.setAttribute('cy', wheelSizeHalf);
@@ -77,7 +76,6 @@ function addWheels(transformGroup, dimensions, wheelSize, wheelSizeHalf) {
   wheelLeft.setAttribute('class', 'wheel');
   transformGroup.appendChild(wheelLeft);
 
-  // Rechter wiel
   const wheelRight = document.createElementNS(svgNS, 'circle');
   wheelRight.setAttribute('cx', dimensions.width * 0.9);
   wheelRight.setAttribute('cy', wheelSizeHalf);
@@ -89,7 +87,6 @@ function addWheels(transformGroup, dimensions, wheelSize, wheelSizeHalf) {
 function drawCarrierSides(carrierGroup, dimensions, sideWidth) {
   const svgNS = 'http://www.w3.org/2000/svg';
 
-  // Linker zijde
   const leftSide = document.createElementNS(svgNS, 'rect');
   leftSide.setAttribute('x', 0);
   leftSide.setAttribute('y', 0);
@@ -98,7 +95,6 @@ function drawCarrierSides(carrierGroup, dimensions, sideWidth) {
   leftSide.setAttribute('class', 'carrier-side');
   carrierGroup.appendChild(leftSide);
 
-  // Rechter zijde
   const rightSide = document.createElementNS(svgNS, 'rect');
   rightSide.setAttribute('x', dimensions.width - sideWidth);
   rightSide.setAttribute('y', 0);
@@ -118,7 +114,6 @@ function drawLayers(carrierGroup, carrierLayout, sideWidth, gapDistance) {
     layerGroup.setAttribute('transform', layerTransform);
     layerGroup.setAttribute('class', 'layer');
 
-    // Teken items in de laag
     drawItems(layerGroup, layer.items);
 
     carrierGroup.appendChild(layerGroup);
@@ -134,7 +129,6 @@ function drawItems(layerGroup, items) {
     itemGroup.setAttribute('transform', itemTransform);
     itemGroup.setAttribute('class', 'item');
 
-    // Creëer rechthoek voor item
     const itemRect = document.createElementNS(svgNS, 'rect');
     itemRect.setAttribute('width', item.dimensions.width);
     itemRect.setAttribute('height', item.dimensions.height);
