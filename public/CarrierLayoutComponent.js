@@ -8,7 +8,6 @@ class CarrierLayoutComponent extends HTMLElement {
   }
 
   async connectedCallback() {
-    // Voeg CSS toe aan het component
     const style = document.createElement('style');
     style.textContent = `
       svg {
@@ -33,11 +32,9 @@ class CarrierLayoutComponent extends HTMLElement {
     `;
     this.shadowRoot.appendChild(style);
 
-    // Genereer de views
     const sideView = await generateCarrierSideView();
     const topView = await generateCarrierTopView();
 
-    // Voeg de SVG's toe aan de Shadow DOM
     if (sideView) this.shadowRoot.appendChild(sideView);
     if (topView) this.shadowRoot.appendChild(topView);
   }
