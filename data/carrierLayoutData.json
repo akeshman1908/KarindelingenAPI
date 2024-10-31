@@ -1,0 +1,1502 @@
+{
+  "data": [
+    {
+      "id": 28967072,
+      "package": 203,
+      "extends": 0,
+      "index": 1,
+      "fill": 51.54,
+      "locked": false,
+      "meta": {
+        "confirmAllowed": false
+      },
+      "customer": [
+        9121
+      ],
+      "salesOrder": [
+        918140
+      ],
+      "layers": [
+        {
+          "id": "28967072-1",
+          "gap": 0,
+          "package": 207,
+          "items": [
+            {
+              "id": "28967072-82463809-1",
+              "salesOrderLine": 14432075,
+              "assortment": "169485-0",
+              "product": 169485,
+              "package": 647,
+              "packageReference": 0,
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 562,
+                "width": 253,
+                "height": 350
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463809-2",
+              "salesOrderLine": 14432075,
+              "assortment": "169485-0",
+              "product": 169485,
+              "package": 647,
+              "packageReference": 0,
+              "position": {
+                "x": 253,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 562,
+                "width": 253,
+                "height": 350
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463809-3",
+              "salesOrderLine": 14432075,
+              "assortment": "169485-0",
+              "product": 169485,
+              "package": 647,
+              "packageReference": 0,
+              "position": {
+                "x": 506,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 562,
+                "width": 253,
+                "height": 350
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463810-1",
+              "salesOrderLine": 14432073,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 759,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            }
+          ]
+        },
+        {
+          "id": "28967072-2",
+          "gap": 7,
+          "package": 207,
+          "items": [
+            {
+              "id": "28967072-82463811-4",
+              "salesOrderLine": 14432076,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 957,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463811-1",
+              "salesOrderLine": 14432076,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463811-2",
+              "salesOrderLine": 14432076,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 319,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463811-3",
+              "salesOrderLine": 14432076,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 638,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            }
+          ]
+        },
+        {
+          "id": "28967072-3",
+          "gap": 11,
+          "package": 207,
+          "items": [
+            {
+              "id": "28967072-82463810-5",
+              "salesOrderLine": 14432073,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 957,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463810-2",
+              "salesOrderLine": 14432073,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463810-3",
+              "salesOrderLine": 14432073,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 319,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463810-4",
+              "salesOrderLine": 14432073,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 638,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            }
+          ]
+        },
+        {
+          "id": "28967072-4",
+          "gap": 15,
+          "package": 207,
+          "items": [
+            {
+              "id": "28967072-82463811-6",
+              "salesOrderLine": 14432076,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 957,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463810-6",
+              "salesOrderLine": 14432073,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463810-7",
+              "salesOrderLine": 14432073,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 319,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463811-5",
+              "salesOrderLine": 14432076,
+              "assortment": "394580-0",
+              "product": 394580,
+              "package": 202,
+              "packageReference": 0,
+              "position": {
+                "x": 638,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 200
+              },
+              "orientation": 0
+            }
+          ]
+        },
+        {
+          "id": "28967072-5",
+          "gap": 19,
+          "package": 207,
+          "items": [
+            {
+              "id": "28967072-82463812-1",
+              "salesOrderLine": 14432072,
+              "assortment": "110185-0",
+              "product": 110185,
+              "package": 58,
+              "packageReference": 0,
+              "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 450
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463812-2",
+              "salesOrderLine": 14432072,
+              "assortment": "110185-0",
+              "product": 110185,
+              "package": 58,
+              "packageReference": 0,
+              "position": {
+                "x": 319,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 450
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463809-4",
+              "salesOrderLine": 14432075,
+              "assortment": "169485-0",
+              "product": 169485,
+              "package": 647,
+              "packageReference": 0,
+              "position": {
+                "x": 957,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 562,
+                "width": 253,
+                "height": 350
+              },
+              "orientation": 0
+            },
+            {
+              "id": "28967072-82463812-3",
+              "salesOrderLine": 14432072,
+              "assortment": "110185-0",
+              "product": 110185,
+              "package": 58,
+              "packageReference": 0,
+              "position": {
+                "x": 638,
+                "y": 0,
+                "z": 0
+              },
+              "dimensions": {
+                "depth": 565,
+                "width": 319,
+                "height": 450
+              },
+              "orientation": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "related": {
+      "salesOrders": [
+        {
+          "id": 918140,
+          "customer": 9121,
+          "processedAt": "2024-10-10",
+          "invoice": null,
+          "deliveryWantedAt": "2024-10-11",
+          "createdAt": "2024-10-09T10:54:37",
+          "isClosed": false,
+          "pricing": {
+            "subtotal": {
+              "amount": 361.98,
+              "decimalCount": 2,
+              "currency": "EUR"
+            },
+            "total": {
+              "amount": 361.98,
+              "decimalCount": 2,
+              "currency": "EUR"
+            }
+          },
+          "externalReference": null,
+          "meta": {
+            "estimatedVolumes": [
+              {
+                "items": 2,
+                "units": 7,
+                "pieces": 99,
+                "id": 1,
+                "package": 203,
+                "estimatedFill": 0.52
+              }
+            ],
+            "productGroups": [
+              "C-P"
+            ]
+          }
+        }
+      ],
+      "salesOrderLines": [
+        {
+          "id": 14432071,
+          "salesOrder": 918140,
+          "customer": 9121,
+          "quantity": 3,
+          "confirmed": false,
+          "committed": false,
+          "package": 58,
+          "product": 396393,
+          "createdAt": "2024-10-09T10:54:37",
+          "committedAt": null,
+          "confirmedAt": "2024-10-09T12:30:00",
+          "cancelledAt": null,
+          "externalReference": null,
+          "assortment": "396393-347953",
+          "orderLineStatus": [
+            {
+              "field": "committed",
+              "status": "pending"
+            }
+          ],
+          "orderUnit": {
+            "package": 58,
+            "quantity": 17,
+            "assortmentReference": "396393-347953-996-P-98-D-17-0-a",
+            "options": {
+              "labels": {
+                "price": {
+                  "amount": 2.6860000000000004,
+                  "decimalCount": 2,
+                  "currency": "EUR"
+                },
+                "forced": false
+              }
+            },
+            "price": {
+              "amount": 71.06,
+              "decimalCount": 2,
+              "currency": "EUR",
+              "volume": {
+                "51": {
+                  "amount": 4.18,
+                  "id": "l"
+                }
+              }
+            },
+            "deliveryDates": {
+              "orderDate": "2024-10-11",
+              "deliveryDate": "2024-10-11"
+            }
+          },
+          "meta": {
+            "salesOrderLineNotCancellableAfter": "2024-10-09T12:00:00"
+          }
+        },
+        {
+          "id": 14432072,
+          "salesOrder": 918140,
+          "customer": 9121,
+          "quantity": 3,
+          "confirmed": false,
+          "committed": false,
+          "package": 58,
+          "product": 110185,
+          "createdAt": "2024-10-09T10:54:37",
+          "committedAt": null,
+          "confirmedAt": null,
+          "cancelledAt": null,
+          "externalReference": null,
+          "assortment": "110185-0",
+          "orderLineStatus": [
+            {
+              "field": "committed",
+              "status": "pending"
+            }
+          ],
+          "orderUnit": {
+            "package": 58,
+            "quantity": 17,
+            "assortmentReference": "110185-0-996-P-2195-D-17-0-a",
+            "options": {
+              "labels": {
+                "price": {
+                  "amount": 0.25,
+                  "decimalCount": 2,
+                  "currency": "EUR"
+                },
+                "forced": false
+              }
+            },
+            "price": {
+              "amount": 56.61,
+              "decimalCount": 2,
+              "currency": "EUR",
+              "volume": {
+                "68": {
+                  "amount": 3.33,
+                  "id": "l"
+                },
+                "544": {
+                  "amount": 3.07,
+                  "id": "c"
+                }
+              }
+            },
+            "deliveryDates": {
+              "orderDate": "2024-10-11",
+              "deliveryDate": "2024-10-11"
+            }
+          },
+          "meta": {
+            "salesOrderLineNotCancellableAfter": "2024-10-09T12:00:00"
+          }
+        },
+        {
+          "id": 14432076,
+          "salesOrder": 918140,
+          "customer": 9121,
+          "quantity": 48,
+          "confirmed": false,
+          "committed": false,
+          "package": 202,
+          "product": 394580,
+          "createdAt": "2024-10-09T10:54:38",
+          "committedAt": null,
+          "confirmedAt": null,
+          "cancelledAt": null,
+          "externalReference": null,
+          "assortment": "394580-0",
+          "orderLineStatus": [
+            {
+              "field": "committed",
+              "status": "pending"
+            }
+          ],
+          "orderUnit": {
+            "package": 202,
+            "quantity": 1,
+            "stepSize": 8,
+            "minimumOrderQuantity": 8,
+            "assortmentReference": "394580-0-996-P-87-E-1-0-a",
+            "options": {
+              "labels": {
+                "price": {
+                  "amount": 0.16800000000000004,
+                  "decimalCount": 2,
+                  "currency": "EUR"
+                },
+                "forced": false
+              }
+            },
+            "price": {
+              "amount": 2.13,
+              "decimalCount": 2,
+              "currency": "EUR",
+              "volume": {
+                "32": {
+                  "amount": 2.13,
+                  "id": "l"
+                },
+                "384": {
+                  "amount": 2.08,
+                  "id": "c"
+                }
+              }
+            },
+            "deliveryDates": {
+              "orderDate": "2024-10-11",
+              "deliveryDate": "2024-10-11"
+            }
+          },
+          "meta": {
+            "salesOrderLineNotCancellableAfter": "2024-10-09T12:00:00"
+          }
+        },
+        {
+          "id": 14432073,
+          "salesOrder": 918140,
+          "customer": 9121,
+          "quantity": 51,
+          "confirmed": false,
+          "committed": false,
+          "package": 202,
+          "product": 394580,
+          "createdAt": "2024-10-09T10:54:37",
+          "committedAt": null,
+          "confirmedAt": null,
+          "cancelledAt": null,
+          "externalReference": null,
+          "assortment": "394580-0",
+          "orderLineStatus": [
+            {
+              "field": "committed",
+              "status": "pending"
+            }
+          ],
+          "orderUnit": {
+            "package": 202,
+            "quantity": 1,
+            "stepSize": 8,
+            "minimumOrderQuantity": 8,
+            "assortmentReference": "394580-0-996-P-87-E-1-0-a",
+            "options": {
+              "labels": {
+                "price": {
+                  "amount": 0.16800000000000004,
+                  "decimalCount": 2,
+                  "currency": "EUR"
+                },
+                "forced": false
+              }
+            },
+            "price": {
+              "amount": 2.13,
+              "decimalCount": 2,
+              "currency": "EUR",
+              "volume": {
+                "32": {
+                  "amount": 2.13,
+                  "id": "l"
+                },
+                "384": {
+                  "amount": 2.08,
+                  "id": "c"
+                }
+              }
+            },
+            "deliveryDates": {
+              "orderDate": "2024-10-11",
+              "deliveryDate": "2024-10-11"
+            }
+          },
+          "meta": {
+            "salesOrderLineNotCancellableAfter": "2024-10-09T12:00:00"
+          }
+        },
+        {
+          "id": 14432075,
+          "salesOrder": 918140,
+          "customer": 9121,
+          "quantity": 4,
+          "confirmed": false,
+          "committed": false,
+          "package": 647,
+          "product": 169485,
+          "createdAt": "2024-10-09T10:54:38",
+          "committedAt": null,
+          "confirmedAt": null,
+          "cancelledAt": null,
+          "externalReference": null,
+          "assortment": "169485-0",
+          "orderLineStatus": [
+            {
+              "field": "committed",
+              "status": "pending"
+            }
+          ],
+          "orderUnit": {
+            "package": 647,
+            "quantity": 12,
+            "assortmentReference": "169485-0-996-P-2282-D-12-0-a",
+            "options": {
+              "labels": {
+                "price": {
+                  "amount": 0.30000000000000004,
+                  "decimalCount": 2,
+                  "currency": "EUR"
+                },
+                "forced": false
+              }
+            },
+            "price": {
+              "amount": 24.12,
+              "decimalCount": 2,
+              "currency": "EUR",
+              "volume": {
+                "60": {
+                  "amount": 2.01,
+                  "id": "l"
+                },
+                "420": {
+                  "amount": 1.95,
+                  "id": "c"
+                }
+              }
+            },
+            "deliveryDates": {
+              "orderDate": "2024-10-11",
+              "deliveryDate": "2024-10-11"
+            }
+          },
+          "meta": {
+            "salesOrderLineNotCancellableAfter": "2024-10-09T12:00:00"
+          }
+        },
+        {
+          "id": 14432074,
+          "salesOrder": 918140,
+          "customer": 9121,
+          "quantity": 4,
+          "confirmed": false,
+          "committed": false,
+          "package": 87,
+          "product": 396396,
+          "createdAt": "2024-10-09T10:54:38",
+          "committedAt": null,
+          "confirmedAt": "2024-10-09T12:30:00",
+          "cancelledAt": null,
+          "externalReference": null,
+          "assortment": "396396-347944",
+          "orderLineStatus": [
+            {
+              "field": "committed",
+              "status": "pending"
+            }
+          ],
+          "orderUnit": {
+            "package": 87,
+            "quantity": 12,
+            "assortmentReference": "396396-347944-996-P-98-D-12-0-a",
+            "options": {
+              "labels": {
+                "price": {
+                  "amount": 1.9320000000000004,
+                  "decimalCount": 2,
+                  "currency": "EUR"
+                },
+                "forced": false
+              }
+            },
+            "price": {
+              "amount": 37.2,
+              "decimalCount": 2,
+              "currency": "EUR",
+              "volume": {
+                "48": {
+                  "amount": 3.1,
+                  "id": "l"
+                }
+              }
+            },
+            "deliveryDates": {
+              "orderDate": "2024-10-11",
+              "deliveryDate": "2024-10-11"
+            }
+          },
+          "meta": {
+            "salesOrderLineNotCancellableAfter": "2024-10-09T12:00:00"
+          }
+        }
+      ],
+      "assortment": [
+        {
+          "id": "110185-0",
+          "product": 110185,
+          "code": "alve10525",
+          "description": "Aloe vera ",
+          "group": "G-2195",
+          "createdAt": "2024-04-22",
+          "properties": {
+            "10": "p",
+            "potSize": {
+              "value": 10.5,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 38,
+              "unit": "cm"
+            },
+            "amountPerUnit": "17",
+            "country": "NL",
+            "transportHeight": {
+              "value": 45,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "4",
+            "layersPerLoadCarrier": "8",
+            "salesOrderLineNotCancellableAfter": null,
+            "vbnNumber": 18778,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "normal",
+            "groups": [
+              "/C-P",
+              "/C-P/G-2195",
+              "/C-P/G-2195"
+            ]
+          }
+        },
+        {
+          "id": "169485-0",
+          "product": 169485,
+          "code": "robmm51025",
+          "description": "Rosa  beau monde varies ",
+          "group": "G-20",
+          "createdAt": "2024-06-17",
+          "properties": {
+            "10": "p",
+            "potSize": {
+              "value": 10.5,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 27,
+              "unit": "cm"
+            },
+            "amountPerUnit": "12",
+            "country": "NL",
+            "transportHeight": {
+              "value": 35,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "5",
+            "layersPerLoadCarrier": "7",
+            "salesOrderLineNotCancellableAfter": null,
+            "vbnNumber": 28991,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "normal",
+            "groups": [
+              "/C-P",
+              "/C-P/G-20",
+              "/C-P/G-20"
+            ]
+          }
+        },
+        {
+          "id": "394580-0",
+          "product": 394580,
+          "code": "k128201h",
+          "description": "K.10cm(x08)820-1 mon.mix handmade ",
+          "group": "G-87",
+          "createdAt": "2024-10-02",
+          "properties": {
+            "10": "ceram",
+            "potSize": {
+              "value": 14,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 11,
+              "unit": "cm"
+            },
+            "plantsPerPot": 1,
+            "amountPerUnit": "1",
+            "country": "NL",
+            "transportHeight": {
+              "value": 20,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "4",
+            "layersPerLoadCarrier": "12",
+            "salesOrderLineNotCancellableAfter": null,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "normal",
+            "groups": [
+              "/C-P",
+              "/C-P/G-87",
+              "/C-P/G-87"
+            ]
+          }
+        },
+        {
+          "id": "396393-347953",
+          "product": 396393,
+          "code": "alve2409",
+          "description": "Aloe vera  kera.2409 ",
+          "group": "G-14",
+          "createdAt": "2024-03-11",
+          "properties": {
+            "10": "ceram",
+            "potSize": {
+              "value": 10.5,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 25,
+              "unit": "cm"
+            },
+            "plantsPerPot": 1,
+            "amountPerUnit": "17",
+            "country": "NL",
+            "transportHeight": {
+              "value": 50,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "3",
+            "layersPerLoadCarrier": "5",
+            "salesOrderLineNotCancellableAfter": null,
+            "vbnNumber": 18778,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "mixedProduct",
+            "groups": [
+              "/C-P",
+              "/C-P/G-14",
+              "/C-P/G-14"
+            ]
+          },
+          "orderUnits": [
+            {
+              "package": 58,
+              "quantity": 17,
+              "assortmentReference": "396393-347953-996-P-98-D-17-0-a",
+              "deliveryDates": {
+                "orderDate": "2024-10-11",
+                "deliveryDate": "2024-10-11"
+              }
+            }
+          ]
+        },
+        {
+          "id": "396396-347944",
+          "product": 396396,
+          "code": "robm2402",
+          "description": "Rosier beau monde varies ceramique ",
+          "group": "G-15",
+          "createdAt": "2024-03-11",
+          "properties": {
+            "10": "ceram",
+            "potSize": {
+              "value": 10.5,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 25,
+              "unit": "cm"
+            },
+            "plantsPerPot": 1,
+            "amountPerUnit": "12",
+            "country": "NL",
+            "transportHeight": {
+              "value": 40,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "4",
+            "layersPerLoadCarrier": "6",
+            "salesOrderLineNotCancellableAfter": null,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "mixedProduct",
+            "groups": [
+              "/C-P",
+              "/C-P/G-15",
+              "/C-P/G-15"
+            ]
+          },
+          "orderUnits": [
+            {
+              "package": 87,
+              "quantity": 12,
+              "assortmentReference": "396396-347944-996-P-98-D-12-0-a",
+              "deliveryDates": {
+                "orderDate": "2024-10-11",
+                "deliveryDate": "2024-10-11"
+              }
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "id": 110185,
+          "code": "alve10525",
+          "description": "Aloe vera ",
+          "group": "G-2195",
+          "createdAt": "2024-04-22",
+          "properties": {
+            "10": "p",
+            "potSize": {
+              "value": 10.5,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 38,
+              "unit": "cm"
+            },
+            "amountPerUnit": "17",
+            "country": "NL",
+            "transportHeight": {
+              "value": 45,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "4",
+            "layersPerLoadCarrier": "8",
+            "salesOrderLineNotCancellableAfter": null,
+            "vbnNumber": 18778,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "normal",
+            "groups": [
+              "/C-P",
+              "/C-P/G-2195",
+              "/C-P/G-2195"
+            ]
+          },
+          "images": [
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/alv/alve10525.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/alv/alve10525.jpg",
+              "type": "product"
+            }
+          ]
+        },
+        {
+          "id": 169485,
+          "code": "robmm51025",
+          "description": "Rosa  beau monde varies ",
+          "group": "G-20",
+          "createdAt": "2024-06-17",
+          "properties": {
+            "10": "p",
+            "potSize": {
+              "value": 10.5,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 27,
+              "unit": "cm"
+            },
+            "amountPerUnit": "12",
+            "country": "NL",
+            "transportHeight": {
+              "value": 35,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "5",
+            "layersPerLoadCarrier": "7",
+            "salesOrderLineNotCancellableAfter": null,
+            "vbnNumber": 28991,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "normal",
+            "groups": [
+              "/C-P",
+              "/C-P/G-20",
+              "/C-P/G-20"
+            ]
+          },
+          "images": [
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/rob/robmm51025000001.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/rob/robmm51025000001.jpg",
+              "type": "product"
+            },
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/rob/robmm51025000002.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/rob/robmm51025000002.jpg",
+              "type": "product"
+            },
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/rob/robmm51025000003.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/rob/robmm51025000003.jpg",
+              "type": "product"
+            },
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/rob/robmm51025000004.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/rob/robmm51025000004.jpg",
+              "type": "product"
+            },
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/rob/robmm51025000005.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/rob/robmm51025000005.jpg",
+              "type": "product"
+            }
+          ]
+        },
+        {
+          "id": 394580,
+          "code": "k128201h",
+          "description": "K.10cm(x08)820-1 mon.mix handmade ",
+          "group": "G-87",
+          "createdAt": "2024-10-02",
+          "properties": {
+            "10": "ceram",
+            "potSize": {
+              "value": 14,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 11,
+              "unit": "cm"
+            },
+            "plantsPerPot": 1,
+            "amountPerUnit": "1",
+            "country": "NL",
+            "transportHeight": {
+              "value": 20,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "4",
+            "layersPerLoadCarrier": "12",
+            "salesOrderLineNotCancellableAfter": null,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "normal",
+            "groups": [
+              "/C-P",
+              "/C-P/G-87",
+              "/C-P/G-87"
+            ]
+          },
+          "images": [
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/k12/k128201h__000000.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/k12/k128201h__000000.jpg",
+              "type": "product"
+            }
+          ]
+        },
+        {
+          "id": 396393,
+          "code": "alve2409",
+          "description": "Aloe vera  ceramique ",
+          "group": "G-98",
+          "createdAt": "2024-03-11",
+          "properties": {
+            "10": "ceram",
+            "potSize": {
+              "value": 10.5,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 25,
+              "unit": "cm"
+            },
+            "plantsPerPot": 1,
+            "amountPerUnit": "17",
+            "country": "NL",
+            "transportHeight": {
+              "value": 50,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "3",
+            "layersPerLoadCarrier": "5",
+            "salesOrderLineNotCancellableAfter": null,
+            "vbnNumber": 18778,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "mixedProduct",
+            "groups": [
+              "/C-P",
+              "/C-P/G-98",
+              "/C-P/G-14",
+              "/C-P/G-98",
+              "/C-P/G-14"
+            ]
+          },
+          "images": [
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/alv/alve2409.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/alv/alve2409.jpg",
+              "type": "product"
+            }
+          ]
+        },
+        {
+          "id": 396396,
+          "code": "robm2402",
+          "description": "Rosier beau monde varies ceramique ",
+          "group": "G-98",
+          "createdAt": "2024-03-11",
+          "properties": {
+            "10": "ceram",
+            "potSize": {
+              "value": 10.5,
+              "unit": "cm"
+            },
+            "height": {
+              "value": 25,
+              "unit": "cm"
+            },
+            "plantsPerPot": 1,
+            "amountPerUnit": "12",
+            "country": "NL",
+            "transportHeight": {
+              "value": 40,
+              "unit": "cm"
+            },
+            "packagesPerLayer": "4",
+            "layersPerLoadCarrier": "6",
+            "salesOrderLineNotCancellableAfter": null,
+            "isValueAdded": false,
+            "stackable": false,
+            "combinationType": "mixedProduct",
+            "groups": [
+              "/C-P",
+              "/C-P/G-98",
+              "/C-P/G-15",
+              "/C-P/G-98",
+              "/C-P/G-15"
+            ]
+          },
+          "images": [
+            {
+              "thumbnail": "https://image.uniware.nl/pictures/products/pics/rob/robm2402.jpg",
+              "url": "https://image.uniware.nl/pictures/products/magnifierpics/rob/robm2402.jpg",
+              "type": "product"
+            }
+          ]
+        }
+      ],
+      "packages": [
+        {
+          "id": 58,
+          "code": "348",
+          "description": "dd 40x4               348",
+          "properties": {
+            "dimensions": {
+              "width": {
+                "value": 540,
+                "unit": "mm"
+              },
+              "depth": {
+                "value": 320,
+                "unit": "mm"
+              },
+              "height": {
+                "value": 400,
+                "unit": "mm"
+              }
+            }
+          }
+        },
+        {
+          "id": 87,
+          "code": "412",
+          "description": "Normtray 56x25 12gts  412",
+          "properties": {
+            "dimensions": {
+              "width": {
+                "value": 562,
+                "unit": "mm"
+              },
+              "depth": {
+                "value": 253,
+                "unit": "mm"
+              },
+              "height": {
+                "value": 66,
+                "unit": "mm"
+              }
+            },
+            "holes": 12,
+            "rows": 3,
+            "columns": 4
+          }
+        },
+        {
+          "id": 202,
+          "code": "999",
+          "description": "no packing costs      999",
+          "properties": {}
+        },
+        {
+          "id": 203,
+          "code": "CC",
+          "description": "Trolley",
+          "properties": {
+            "dimensions": {
+              "width": {
+                "value": 1350,
+                "unit": "mm"
+              },
+              "depth": {
+                "value": 565,
+                "unit": "mm"
+              },
+              "height": {
+                "value": 2500,
+                "unit": "mm"
+              }
+            },
+            "innerDimensions": {
+              "width": {
+                "value": 1277,
+                "unit": "mm"
+              },
+              "depth": {
+                "value": 565,
+                "unit": "mm"
+              },
+              "height": {
+                "value": 2400,
+                "unit": "mm"
+              },
+              "id": 207
+            },
+            "gapDistance": 50
+          }
+        },
+        {
+          "id": 207,
+          "code": "PLT",
+          "description": "Shelves",
+          "properties": {
+            "dimensions": {
+              "width": {
+                "value": 1277,
+                "unit": "mm"
+              },
+              "depth": {
+                "value": 565,
+                "unit": "mm"
+              },
+              "height": {
+                "value": 50,
+                "unit": "mm"
+              }
+            }
+          }
+        },
+        {
+          "id": 647,
+          "code": "495",
+          "description": "495",
+          "properties": {
+            "dimensions": {
+              "width": {
+                "value": 562,
+                "unit": "mm"
+              },
+              "depth": {
+                "value": 253,
+                "unit": "mm"
+              },
+              "height": {
+                "value": 70,
+                "unit": "mm"
+              }
+            }
+          }
+        }
+      ],
+      "relations": [
+        {
+          "id": 9121,
+          "isContact": false,
+          "isActive": true,
+          "createdAt": "2010-01-01",
+          "updatedAt": "2024-06-18",
+          "image": null,
+          "businessDetails": {
+            "id": 9121,
+            "relation": 9121,
+            "code": "imar",
+            "name": "Districo Montelimar",
+            "logo": null,
+            "cocNumber": "",
+            "vatNumber": "FR11337891287"
+          },
+          "properties": {
+            "invoices": {
+              "netWithin": {
+                "days": 30
+              },
+              "reclamateWithin": {
+                "days": 30
+              }
+            },
+            "payments": {
+              "accountNumber": 47821
+            }
+          },
+          "contacts": [
+            {
+              "id": 34725,
+              "role": "accountManager",
+              "relation": 9121
+            }
+          ]
+        },
+        {
+          "id": 3377,
+          "isContact": false,
+          "isActive": true,
+          "createdAt": "2010-01-01",
+          "updatedAt": "2024-09-03",
+          "image": null,
+          "businessDetails": {
+            "id": 3377,
+            "relation": 3377,
+            "code": "prof1",
+            "name": "Profitplant B.V.",
+            "logo": null,
+            "cocNumber": "",
+            "vatNumber": "NL800448479B01"
+          },
+          "externalReferences": [
+            {
+              "relation": 3377,
+              "id": "8714231186120",
+              "type": "gln.company",
+              "description": "GLN company code"
+            },
+            {
+              "relation": 3377,
+              "id": "8713783444740",
+              "type": "gln.location.entrance",
+              "description": "GLN location code"
+            }
+          ],
+          "properties": {
+            "invoices": {
+              "netWithin": {
+                "days": 30
+              },
+              "reclamateWithin": {
+                "days": 30
+              }
+            }
+          },
+          "contacts": []
+        }
+      ]
+    },
+    "pagination": {
+      "count": 1,
+      "total": 1
+    }
+  }
+}
